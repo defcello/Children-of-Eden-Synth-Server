@@ -1,5 +1,7 @@
 ﻿Children of Eden Synth Server
 =============================
+THIS IS NOT OFFICIAL CHILDREN OF EDEN SOFTWARE AND IS IN NO WAY AFFILIATED WITH ITS OWNERS!  USE AT YOUR OWN RISK!
+
 This is a program I wrote to enable 3 keyboardists to use one Roland Fantom XR to produce the sound necessary to play their parts in "Children of Eden".  This software has long been out of commission, but it worked well enough for the show especially considering how little time I had to work on it.  ^_^;;;
 
 I started to convert this into "PatchCorral" a more general-purpose synth driving application written in Python before splitting it into its own project (https://github.com/defcello/PatchCorral) after opting for an engine rewrite.  The original web server code should still be mostly operational...
